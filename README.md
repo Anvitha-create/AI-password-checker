@@ -32,4 +32,4 @@ A simple web app that checks the strength of your password in real time.It also 
 
 🖼️ Sample Output  
 
-![Sample Output](sample-output.png)
+![Sample Output](ss.png)
