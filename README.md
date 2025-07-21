@@ -1,10 +1,10 @@
-# 🔐 AI Password Checker
+### 🔐 AI Password Checker
 
 A simple web app that checks the strength of your password in real time.It also suggests secure AI-style variants and improvement tips.
 
 ---
 
-✨ Features 
+##✨ Features 
 
 - Real-time password strength meter  
 - Color-coded strength indicator  
@@ -22,7 +22,7 @@ A simple web app that checks the strength of your password in real time.It also 
 
 ---
 
-🛠️ Technologies Used  
+##🛠️ Technologies Used  
 
 - HTML5  
 - CSS3  
@@ -30,7 +30,7 @@ A simple web app that checks the strength of your password in real time.It also 
 
 ---
 
-🖼️ Sample Output  
+##🖼️ Sample Output  
 
 ![Screenshot 1](ss.png)  
 ![Screenshot 2](sss.png)  
