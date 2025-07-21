@@ -6,13 +6,13 @@ It also suggests secure AI-style variants and improvement tips.
 
 ---
 
-✨ Features
+🚀 Features
 
 ✅ Real-time password strength meter
 
-✅ Color-coded strength indicator
+🎨 Color-coded strength indicator
 
-✅ Checks for:
+🔍 Checks for:
 
 Minimum 8 characters
 
@@ -51,7 +51,7 @@ JavaScript
 
 ---
 
-🖼️ Sample Output
+📸 Sample Output
 
 ![Screenshot 1](ss.png)  
 ![Screenshot 2](sss.png)  
