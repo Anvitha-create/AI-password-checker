@@ -1,4 +1,4 @@
-✅ 🔐 AI Password Checker
+# ✅ 🔐 AI Password Checker
 
 An interactive and visually responsive tool that checks your password strength in real time.
 Using HTML, CSS, and JavaScript.
