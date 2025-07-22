@@ -25,7 +25,7 @@ Using HTML, CSS, and JavaScript.
 
 ---
 
-✅ 🛠️ Technologies Used
+### ✅ 🛠️ Technologies Used
 
 🧱 HTML5
 🎨 CSS3 (with animations)
