@@ -34,7 +34,7 @@ An interactive and visually responsive tool that checks your password strength i
 
 ---
 
-✅ 📸 Sample Output
+## ✅ 📸 Sample Output
 
 ![Screenshot 1](ss.png)  
 ![Screenshot 2](sss.png)  
