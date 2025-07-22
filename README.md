@@ -6,7 +6,7 @@ Using HTML, CSS, and JavaScript.
 
 ---
 
-✅ 🚀 Features
+### ✅ 🚀 Features
 
 🔒 Real-time password strength meter
 🎨 Color-coded strength indicator
